@@ -11,3 +11,6 @@ Maybe : a feature that stores your cards and lists the benefits of the cards to 
 
 
 # pictures
+
+# tech stack
+I will be using React but I do not plan on using API since its just a blog to store my opinion and facts
